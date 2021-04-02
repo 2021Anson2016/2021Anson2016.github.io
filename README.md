@@ -1,6 +1,3 @@
-# HZY3.github.io -> Error, so change name
-
-
 Person Website 
 
 ## Education
@@ -15,3 +12,7 @@ Person Website
 ## Awards
 
 ## Activity
+
+
+
+#### HZY3.github.io -> Error, so change name
